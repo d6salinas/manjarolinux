@@ -1,0 +1,18 @@
+# added by dsalinas
+
+# TeX specific
+*.aux
+*.dvi
+*.log
+*.nav
+*.out
+*.pdf
+*.snm
+*.toc
+
+# Generic files
+*.~
+*.swp
+*.backup
+
+# considerados solo .tex's, folder images y demás validos
